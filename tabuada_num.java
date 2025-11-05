@@ -27,6 +27,7 @@ public class TabuadaEmArquivo {
             System.out.println("Erro ao criar o arquivo.");
         }
 
+    
         input.close();
     }
 }
