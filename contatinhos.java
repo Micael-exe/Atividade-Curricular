@@ -36,7 +36,6 @@ public class Agenda {
     }
 
     private List<Contatinho> lista = new ArrayList<>();
-
     public void addContatinho(Contatinho c) {
         lista.add(c);
     }
