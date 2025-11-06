@@ -23,7 +23,6 @@ public class Agenda {
         public String getNome() {
             return nome;
         }
-
         @Override
         public int compareTo(Contatinho outro) {
             return this.nome.compareToIgnoreCase(outro.getNome());
